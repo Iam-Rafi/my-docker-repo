@@ -1,2 +1,2 @@
 # my-docker-repo
-sample test image
+Sample web page
